@@ -31,7 +31,7 @@
 
 ## Diagrama de Componentes
 
-![Imagem](images/componente.png
+![Imagem](images/componente.png)
 
 
 
