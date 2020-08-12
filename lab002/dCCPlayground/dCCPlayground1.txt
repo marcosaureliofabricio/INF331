@@ -1,0 +1,40 @@
+<dcc-trigger label="Mundo"
+             action="noticia/mundo/politica"
+             value="China tem como alvo infraestrutura eleitoral dos EUA com ataques cibernéticos, diz assessor de Segurança">
+</dcc-trigger>
+
+<dcc-trigger label="Brasil P"
+             action="noticia/brasil/politica"
+             value="Governo gastou até início de agosto 54% da verba destinada a ações contra a pandemia">
+</dcc-trigger>
+
+<dcc-trigger label="Brasil E"
+             action="noticia/brasil/esporte"
+             value="O esporte como ferramenta de inclusão social no Brasil">
+</dcc-trigger>
+
+<dcc-trigger label="Bahia"
+             action="noticia/bahia/esporte"
+             value="Roger vê jogo sofrido, explica time titular e exalta título: "Veio para atenuar um pouco tristeza">
+</dcc-trigger>
+
+<dcc-lively-talk id="doctor"
+                 duration="0s"
+                 character="doctor"
+                 speech="Politica ">
+  <subscribe-dcc topic="noticia/#/politica"></subscribe-dcc>
+</dcc-lively-talk>
+
+<dcc-lively-talk id="nurse"
+                 duration="0s"
+                 character="nurse"
+                 speech="Brasil ">
+  <subscribe-dcc topic="#/brasil/#"></subscribe-dcc>
+</dcc-lively-talk>
+
+<dcc-lively-talk id="patient"
+                 duration="0s"
+                 character="patient"
+                 speech="News ">
+  <subscribe-dcc topic="#/#/#"></subscribe-dcc>
+</dcc-lively-talk>
