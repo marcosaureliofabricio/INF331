@@ -23,19 +23,17 @@ Professor André, eu só tenho Iphone, então não consegui simular!
   * uma lista opções com o nome de três produtos (a sua escolha)
 ![Imagem](Imagens/Tela1List.png)
 
-  * um quadro de detalhes do produto e,
-  * um campo para o usuário digitar a quantidade que deseja comprar e,
-  * um botão de efetivação da compra:
+  * Quadro de detalhes do produto, campo para o usuário digitar a quantidade que deseja comprar e botão de efetivação da compra:
 ![Imagem](Imagens/Tela2.png)
 ![Imagem](Imagens/Tela3.png)
 ![Imagem](Imagens/Tela4.png)
 
-  * um campo de mensagens no rodapé com  detalhamento:
+  * Campo de mensagens no rodapé com  detalhamento:
 ![Imagem](Imagens/Tela2p.png)
 ![Imagem](Imagens/Tela3p.png)
 ![Imagem](Imagens/Tela4p.png)
 
- *Blocos telas 1 a 4:
+ * Blocos telas 1 a 4:
 ![Imagem](Imagens/BlocksTela1.png)
 ![Imagem](Imagens/BlocksTela2.png)
 ![Imagem](Imagens/BlocksTela3.png)
