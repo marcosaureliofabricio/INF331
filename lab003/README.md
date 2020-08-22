@@ -1,7 +1,7 @@
 # Orquestração e Coreografia
 *Lab de Componentização e Reúso de Software 15/08/2020*
 
-No link do Google Drive [modelo](https://docs.google.com/presentation/d/1UMC749wjVD1aRUSH1OuiT006SkXqYUjedhL8fZJd6xY/edit?usp=sharing) ou no diretório [resources/](resources/) você encontrará um modelo para resolver duas tarefas:
+Professor André, eu só tenho Iphone, então não consegui simular!
 
 ## Tarefa 1
 
