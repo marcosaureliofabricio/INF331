@@ -23,17 +23,23 @@ No link do Google Drive [modelo](https://docs.google.com/presentation/d/1UMC749w
   * uma lista opções com o nome de três produtos (a sua escolha)
 ![Imagem](Imagens/Tela1List.png)
 
-  * um quadro de detalhes do produto;
-  * um campo para o usuário digitar a quantidade que deseja comprar;
+  * um quadro de detalhes do produto e,
+  * um campo para o usuário digitar a quantidade que deseja comprar e,
   * um botão de efetivação da compra:
-![Imagem](Imagens/Tela1p.png)
-![Imagem](Imagens/Tela3p.png)
-![Imagem](Imagens/Tela4p.png)
-
-  * um campo de mensagens no rodapé com  detalhamento:
 ![Imagem](Imagens/Tela2.png)
 ![Imagem](Imagens/Tela3.png)
 ![Imagem](Imagens/Tela4.png)
+
+  * um campo de mensagens no rodapé com  detalhamento:
+![Imagem](Imagens/Tela2p.png)
+![Imagem](Imagens/Tela3p.png)
+![Imagem](Imagens/Tela4p.png)
+
+ *Blocos telas 1 a 4:
+![Imagem](Imagens/BlocksTela1.png)
+![Imagem](Imagens/BlocksTela2.png)
+![Imagem](Imagens/BlocksTela3.png)
+![Imagem](Imagens/BlocksTela4.png)
 
 
 ## Tarefa 4
