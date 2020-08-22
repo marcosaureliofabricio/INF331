@@ -6,7 +6,7 @@ No link do Google Drive [modelo](https://docs.google.com/presentation/d/1UMC749w
 ## Tarefa 1
 
 ## Imagem do Projeto
-![Imagem](imagens/Tarefa01.png)
+![Imagem](Imagens/Tarefa01.png)
 
 ## Tarefa 2
 
@@ -16,24 +16,24 @@ No link do Google Drive [modelo](https://docs.google.com/presentation/d/1UMC749w
 * Os três produtos com menor preço são apresentados para o cliente - em caso de empate de preço, considerar quem fez primeiro a oferta.
 
 ## Imagem do Projeto
-![Imagem](imagens/Tarefa02.png)
+![Imagem](Imagens/Tarefa02.png)
 
 ## Tarefa 3
 
   * uma lista opções com o nome de três produtos (a sua escolha)
-![Imagem](imagens/Tela1List.png)
+![Imagem](Imagens/Tela1List.png)
 
   * um quadro de detalhes do produto;
   * um campo para o usuário digitar a quantidade que deseja comprar;
   * um botão de efetivação da compra:
-![Imagem](imagens/Tela1p.png)
-![Imagem](imagens/Tela3p.png)
-![Imagem](imagens/Tela4p.png)
+![Imagem](Imagens/Tela1p.png)
+![Imagem](Imagens/Tela3p.png)
+![Imagem](Imagens/Tela4p.png)
 
   * um campo de mensagens no rodapé com  detalhamento:
-![Imagem](imagens/Tela2.png)
-![Imagem](imagens/Tela3.png)
-![Imagem](imagens/Tela4.png)
+![Imagem](Imagens/Tela2.png)
+![Imagem](Imagens/Tela3.png)
+![Imagem](Imagens/Tela4.png)
 
 
 ## Tarefa 4
