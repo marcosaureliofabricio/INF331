@@ -24,11 +24,12 @@
 
 Encontre dois serviços REST interessantes, que recebam no mínimo dois parâmetros e execute pelo menos uma consulta em cada um deles. Apresente para cada serviço que você escolheu:
 
-~~~http
 * o título do serviço: smmart-me
 * a URI do serviço: https://smart-me.com:443/api/Devices
 * uma breve descrição do mesmo: O smart-me oferece interfaces para sistemas de terceiros, bem como integrações em softwares existentes da empresa. Desta forma, permitimos que você reúna soluções sob medida para seus clientes e máxima flexibilidade para você
 * o cabeçalho HTTP da requisição: 
+
+~~~http
 :authority: any-api.com:8443
 :method: OPTIONS
 :path: /https://smart-me.com:443/api/Devices
